@@ -1,7 +1,7 @@
 ---
 title: ABOUT PAGE
 layout: template
-filename: test.md
+filename: about.md
 --- 
 ## The Keller Podcast is on many platforms!
 
