@@ -1,6 +1,3 @@
-title: ABOUT PAGE
-layout: template
-filename: about.md
 ## The Keller Podcast is on many platforms!
 
 >### [Spotify](https://open.spotify.com/show/0htwdort4G1c4pSE8SKiT8?si=934950cf60de4429)
