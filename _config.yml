@@ -1,5 +1,5 @@
 name: The Keller Podcast
-title: The Keller Podcast
+title:
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
